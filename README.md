@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 About Me
 
-I'm a Multimedia Technology and Design student at Instituto Politécnico de Viseu, passionate about blending creative UX/UI design with cutting-edge web development.
+I’m a recent graduate in Multimedia Technology and Design from Instituto Politécnico de Viseu, passionate about blending creative UX/UI design with cutting-edge web development.
 
 ## 🚀 Skills & Tools
 
