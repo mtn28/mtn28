@@ -28,7 +28,7 @@ I’m a recent graduate in Multimedia Technology and Design from Instituto Polit
 
 ## 🌐 Education
 
-Currently pursuing Multimedia Technology and Design at Instituto Politécnico de Viseu. My studies revolve around Multimedia Design, Programming, Databases, and Computer Graphics.
+Graduated in Multimedia Technology and Design from Instituto Politécnico de Viseu. My studies focused on Multimedia Design, Programming, Databases, and Computer Graphics.
 
 ## 💡 Goals & Projects
 
